@@ -17,3 +17,11 @@ All the credits, bar a few minor improvements, go entirely to austen64 on GTA Mo
 - Sorted!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+Other Credits:
+-Dani02: Suspension rigging
+-Eduarson26: Recreated Invetero logo
+-sirstirfry: Recreated GoPostal logos
+-SilentSoul21: Recreated Futo-specific Karin logo
+-13Stewartc: Inspiration and early help
+-Skysder: Unwavering loyalty
