@@ -4,7 +4,8 @@ Hello!
 
 This is a very basic resource that should be used as a replacement for base-game GTA vehicles and **removes many issues** from each.
 
-All the credits, bar a few minor improvements, go entirely to austen64 on GTA Mods (https://www.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace)
+All the credits, bar a few minor improvements, go entirely to austen64 on GTA Mods 
+(https://www.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
